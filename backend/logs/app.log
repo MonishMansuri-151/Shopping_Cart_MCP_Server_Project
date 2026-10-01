@@ -1,0 +1,137 @@
+2026-09-30 22:17:33,361 - INFO - Fetching products
+2026-09-30 22:17:33,985 - INFO - package: mysql.connector.plugins
+2026-09-30 22:17:33,985 - INFO - plugin_name: caching_sha2_password
+2026-09-30 22:17:33,985 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-09-30 22:17:33,986 - INFO - Database connection successful
+2026-09-30 22:17:33,986 - INFO - Products fetched successfully
+2026-10-01 09:08:39,294 - INFO - Fetching products
+2026-10-01 09:08:39,767 - INFO - package: mysql.connector.plugins
+2026-10-01 09:08:39,767 - INFO - plugin_name: caching_sha2_password
+2026-10-01 09:08:39,767 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-01 09:08:39,782 - INFO - Database connection successful
+2026-10-01 09:08:39,784 - INFO - Products fetched successfully
+2026-10-01 09:09:09,335 - INFO - Fetching products
+2026-10-01 09:09:09,661 - INFO - Database connection successful
+2026-10-01 09:09:09,661 - INFO - Products fetched successfully
+2026-10-01 09:24:14,335 - INFO - Fetching products
+2026-10-01 09:24:14,565 - INFO - package: mysql.connector.plugins
+2026-10-01 09:24:14,565 - INFO - plugin_name: caching_sha2_password
+2026-10-01 09:24:14,565 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-01 09:24:14,565 - INFO - Database connection successful
+2026-10-01 09:24:14,582 - INFO - Products fetched successfully
+2026-10-01 09:24:25,690 - INFO - Database connection successful
+2026-10-01 09:24:44,040 - INFO - Database connection successful
+2026-10-01 09:25:11,185 - INFO - Database connection successful
+2026-10-01 09:25:22,975 - INFO - Database connection successful
+2026-10-01 09:46:12,763 - INFO - Fetching products
+2026-10-01 09:46:13,234 - INFO - Database connection successful
+2026-10-01 09:46:13,234 - INFO - Products fetched successfully
+2026-10-01 09:46:13,254 - INFO - Database connection successful
+2026-10-01 09:46:34,154 - INFO - Fetching products
+2026-10-01 09:46:34,604 - INFO - Database connection successful
+2026-10-01 09:46:34,619 - INFO - Database connection successful
+2026-10-01 09:46:34,619 - INFO - Products fetched successfully
+2026-10-01 09:46:48,081 - INFO - Database connection successful
+2026-10-01 09:46:49,910 - INFO - Database connection successful
+2026-10-01 09:46:53,535 - INFO - Database connection successful
+2026-10-01 09:46:55,108 - INFO - Database connection successful
+2026-10-01 09:47:08,004 - INFO - Database connection successful
+2026-10-01 09:47:09,799 - INFO - Fetching products
+2026-10-01 09:47:10,253 - INFO - Database connection successful
+2026-10-01 09:47:10,253 - INFO - Products fetched successfully
+2026-10-01 09:47:10,269 - INFO - Database connection successful
+2026-10-01 09:47:52,932 - INFO - Fetching products
+2026-10-01 09:47:53,204 - INFO - Database connection successful
+2026-10-01 09:47:53,206 - INFO - Products fetched successfully
+2026-10-01 09:48:22,979 - INFO - Database connection successful
+2026-10-01 09:48:25,167 - INFO - Database connection successful
+2026-10-01 09:48:50,556 - INFO - Database connection successful
+2026-10-01 09:48:52,215 - INFO - Database connection successful
+2026-10-01 09:49:13,988 - INFO - Database connection successful
+2026-10-01 09:49:14,227 - INFO - Database connection successful
+2026-10-01 09:49:27,743 - INFO - Database connection successful
+2026-10-01 09:49:29,432 - INFO - Database connection successful
+2026-10-01 09:49:33,089 - INFO - Database connection successful
+2026-10-01 09:49:38,326 - INFO - Fetching products
+2026-10-01 09:49:38,534 - INFO - Database connection successful
+2026-10-01 09:49:38,534 - INFO - Database connection successful
+2026-10-01 09:49:38,541 - INFO - Products fetched successfully
+2026-10-01 09:52:04,441 - INFO - Fetching products
+2026-10-01 09:52:04,955 - INFO - Fetching products
+2026-10-01 09:52:05,254 - INFO - Database connection successful
+2026-10-01 09:52:05,406 - INFO - Database connection successful
+2026-10-01 09:52:05,422 - INFO - Fetching products
+2026-10-01 09:52:05,422 - INFO - Products fetched successfully
+2026-10-01 09:52:05,537 - INFO - Database connection successful
+2026-10-01 09:52:05,766 - INFO - Database connection successful
+2026-10-01 09:52:05,950 - INFO - Products fetched successfully
+2026-10-01 09:52:05,957 - INFO - Database connection successful
+2026-10-01 09:52:05,958 - INFO - Fetching products
+2026-10-01 09:52:05,959 - INFO - Database connection successful
+2026-10-01 09:52:06,422 - INFO - Products fetched successfully
+2026-10-01 09:52:06,422 - INFO - Fetching products
+2026-10-01 09:52:06,617 - INFO - Fetching products
+2026-10-01 09:52:06,729 - INFO - Database connection successful
+2026-10-01 09:52:06,936 - INFO - Database connection successful
+2026-10-01 09:52:07,237 - INFO - Products fetched successfully
+2026-10-01 09:52:07,320 - INFO - Database connection successful
+2026-10-01 09:52:07,387 - INFO - Database connection successful
+2026-10-01 09:52:07,388 - INFO - Database connection successful
+2026-10-01 09:52:07,388 - INFO - Fetching products
+2026-10-01 09:52:07,389 - INFO - Products fetched successfully
+2026-10-01 09:52:07,389 - INFO - Fetching products
+2026-10-01 09:52:08,145 - INFO - Database connection successful
+2026-10-01 09:52:08,339 - INFO - Fetching products
+2026-10-01 09:52:08,339 - INFO - Database connection successful
+2026-10-01 09:52:08,339 - INFO - Database connection successful
+2026-10-01 09:52:08,339 - INFO - Products fetched successfully
+2026-10-01 09:52:08,339 - INFO - Database connection successful
+2026-10-01 09:52:08,631 - INFO - Database connection successful
+2026-10-01 09:52:08,766 - INFO - Products fetched successfully
+2026-10-01 09:52:08,766 - INFO - Database connection successful
+2026-10-01 09:52:08,766 - INFO - Products fetched successfully
+2026-10-01 09:52:08,774 - INFO - Database connection successful
+2026-10-01 09:52:08,774 - INFO - Products fetched successfully
+2026-10-01 10:17:39,850 - INFO - Fetching products
+2026-10-01 10:17:40,620 - INFO - Database connection successful
+2026-10-01 10:17:40,623 - INFO - Products fetched successfully
+2026-10-01 10:17:55,399 - INFO - Fetching products
+2026-10-01 10:17:55,929 - INFO - Database connection successful
+2026-10-01 10:17:55,944 - INFO - Products fetched successfully
+2026-10-01 10:23:47,946 - INFO - Fetching products
+2026-10-01 10:23:48,219 - INFO - Database connection successful
+2026-10-01 10:23:48,219 - INFO - Products fetched successfully
+2026-10-01 10:23:52,306 - INFO - Fetching products
+2026-10-01 10:23:52,896 - INFO - Database connection successful
+2026-10-01 10:23:52,897 - INFO - Products fetched successfully
+2026-10-01 10:23:56,721 - INFO - Database connection successful
+2026-10-01 10:24:06,870 - INFO - Database connection successful
+2026-10-01 10:24:22,709 - INFO - Fetching products
+2026-10-01 10:24:23,232 - INFO - Database connection successful
+2026-10-01 10:24:23,232 - INFO - Products fetched successfully
+2026-10-01 10:24:33,543 - INFO - Fetching products
+2026-10-01 10:24:33,841 - INFO - Fetching products
+2026-10-01 10:24:34,011 - INFO - Database connection successful
+2026-10-01 10:24:34,182 - INFO - Products fetched successfully
+2026-10-01 10:24:34,205 - INFO - Database connection successful
+2026-10-01 10:24:34,207 - INFO - Products fetched successfully
+2026-10-01 10:24:34,223 - INFO - Fetching products
+2026-10-01 10:24:34,490 - INFO - Database connection successful
+2026-10-01 10:24:34,490 - INFO - Products fetched successfully
+2026-10-01 10:24:34,683 - INFO - Fetching products
+2026-10-01 10:24:34,960 - INFO - Database connection successful
+2026-10-01 10:24:34,960 - INFO - Products fetched successfully
+2026-10-01 10:24:35,068 - INFO - Fetching products
+2026-10-01 10:24:35,325 - INFO - Database connection successful
+2026-10-01 10:24:35,325 - INFO - Products fetched successfully
+2026-10-01 10:24:35,465 - INFO - Fetching products
+2026-10-01 10:24:35,726 - INFO - Database connection successful
+2026-10-01 10:24:35,726 - INFO - Products fetched successfully
+2026-10-01 10:24:35,861 - INFO - Fetching products
+2026-10-01 10:24:36,156 - INFO - Database connection successful
+2026-10-01 10:24:36,162 - INFO - Products fetched successfully
+2026-10-01 10:24:36,244 - INFO - Fetching products
+2026-10-01 10:24:36,690 - INFO - Fetching products
+2026-10-01 10:24:36,942 - INFO - Database connection successful
+2026-10-01 10:24:37,148 - INFO - Products fetched successfully
+2026-10-01 10:24:37,179 - INFO - Fetching products
