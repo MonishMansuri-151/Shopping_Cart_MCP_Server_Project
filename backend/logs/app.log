@@ -135,3 +135,1364 @@
 2026-10-01 10:24:36,942 - INFO - Database connection successful
 2026-10-01 10:24:37,148 - INFO - Products fetched successfully
 2026-10-01 10:24:37,179 - INFO - Fetching products
+2026-10-01 10:24:37,707 - INFO - Database connection successful
+2026-10-01 10:24:37,707 - INFO - Fetching products
+2026-10-01 10:24:37,976 - INFO - Products fetched successfully
+2026-10-01 10:24:38,156 - INFO - Database connection successful
+2026-10-01 10:24:38,156 - INFO - Products fetched successfully
+2026-10-01 10:24:38,172 - INFO - Database connection successful
+2026-10-01 10:24:38,172 - INFO - Products fetched successfully
+2026-10-01 10:24:50,080 - INFO - Fetching products
+2026-10-01 10:24:50,749 - INFO - Database connection successful
+2026-10-01 10:24:50,749 - INFO - Products fetched successfully
+2026-10-01 10:24:51,098 - INFO - Fetching products
+2026-10-01 10:24:51,797 - INFO - Database connection successful
+2026-10-01 10:24:51,803 - INFO - Products fetched successfully
+2026-10-01 10:24:54,791 - INFO - Database connection successful
+2026-10-01 10:26:14,924 - INFO - Fetching products
+2026-10-01 10:26:15,484 - INFO - Database connection successful
+2026-10-01 10:26:15,484 - INFO - Products fetched successfully
+2026-10-01 10:26:15,484 - INFO - Database connection successful
+2026-10-01 10:26:18,775 - INFO - Fetching products
+2026-10-01 10:26:20,050 - INFO - Database connection successful
+2026-10-01 10:26:20,050 - INFO - Database connection successful
+2026-10-01 10:26:20,050 - INFO - Products fetched successfully
+2026-10-01 10:26:25,484 - INFO - Database connection successful
+2026-10-01 10:26:26,439 - INFO - Database connection successful
+2026-10-01 10:26:26,798 - INFO - Database connection successful
+2026-10-01 10:26:27,476 - INFO - Database connection successful
+2026-10-01 10:26:28,569 - INFO - Database connection successful
+2026-10-01 10:26:29,378 - INFO - Database connection successful
+2026-10-01 10:26:32,338 - INFO - Database connection successful
+2026-10-01 10:26:32,974 - INFO - Database connection successful
+2026-10-01 10:26:36,311 - INFO - Database connection successful
+2026-10-01 10:26:36,869 - INFO - Database connection successful
+2026-10-01 10:26:43,373 - INFO - Database connection successful
+2026-10-01 10:26:44,048 - INFO - Database connection successful
+2026-10-01 10:28:50,442 - INFO - Fetching products
+2026-10-01 10:28:51,009 - INFO - Database connection successful
+2026-10-01 10:28:51,009 - INFO - Fetching products
+2026-10-01 10:28:51,010 - INFO - Products fetched successfully
+2026-10-01 10:28:51,288 - INFO - Database connection successful
+2026-10-01 10:28:51,601 - INFO - Fetching products
+2026-10-01 10:28:51,723 - INFO - Database connection successful
+2026-10-01 10:28:52,032 - INFO - Database connection successful
+2026-10-01 10:28:52,053 - INFO - Fetching products
+2026-10-01 10:28:52,460 - INFO - Fetching products
+2026-10-01 10:28:52,816 - INFO - Fetching products
+2026-10-01 10:28:52,935 - INFO - Database connection successful
+2026-10-01 10:28:53,418 - INFO - Database connection successful
+2026-10-01 10:28:53,650 - INFO - Database connection successful
+2026-10-01 10:28:53,937 - INFO - Products fetched successfully
+2026-10-01 10:28:54,047 - INFO - Database connection successful
+2026-10-01 10:28:54,072 - INFO - Fetching products
+2026-10-01 10:28:54,160 - INFO - Products fetched successfully
+2026-10-01 10:28:54,354 - INFO - Database connection successful
+2026-10-01 10:28:54,540 - INFO - Database connection successful
+2026-10-01 10:28:54,582 - INFO - Database connection successful
+2026-10-01 10:28:54,597 - INFO - Products fetched successfully
+2026-10-01 10:28:54,726 - INFO - Database connection successful
+2026-10-01 10:28:54,823 - INFO - Products fetched successfully
+2026-10-01 10:28:54,828 - INFO - Products fetched successfully
+2026-10-01 10:28:54,833 - INFO - Database connection successful
+2026-10-01 10:28:54,839 - INFO - Fetching products
+2026-10-01 10:28:54,839 - INFO - Fetching products
+2026-10-01 10:28:54,853 - INFO - Fetching products
+2026-10-01 10:28:54,853 - INFO - Fetching products
+2026-10-01 10:28:54,857 - INFO - Database connection successful
+2026-10-01 10:28:55,282 - INFO - Products fetched successfully
+2026-10-01 10:28:56,979 - INFO - Database connection successful
+2026-10-01 10:28:57,036 - INFO - Database connection successful
+2026-10-01 10:28:57,036 - INFO - Database connection successful
+2026-10-01 10:28:57,130 - INFO - Database connection successful
+2026-10-01 10:28:57,162 - INFO - Database connection successful
+2026-10-01 10:28:57,177 - INFO - Fetching products
+2026-10-01 10:28:57,179 - INFO - Fetching products
+2026-10-01 10:28:57,384 - INFO - Fetching products
+2026-10-01 10:28:57,432 - INFO - Products fetched successfully
+2026-10-01 10:28:57,432 - INFO - Database connection successful
+2026-10-01 10:28:57,457 - INFO - Database connection successful
+2026-10-01 10:28:57,817 - INFO - Products fetched successfully
+2026-10-01 10:28:58,218 - INFO - Products fetched successfully
+2026-10-01 10:28:58,392 - INFO - Database connection successful
+2026-10-01 10:28:58,840 - INFO - Database connection successful
+2026-10-01 10:28:59,181 - INFO - Database connection successful
+2026-10-01 10:28:59,181 - INFO - Products fetched successfully
+2026-10-01 10:28:59,304 - INFO - Database connection successful
+2026-10-01 10:28:59,304 - INFO - Database connection successful
+2026-10-01 10:28:59,314 - INFO - Database connection successful
+2026-10-01 10:28:59,314 - INFO - Products fetched successfully
+2026-10-01 10:28:59,315 - INFO - Products fetched successfully
+2026-10-01 10:28:59,323 - INFO - Database connection successful
+2026-10-01 10:28:59,323 - INFO - Products fetched successfully
+2026-10-01 10:37:24,676 - INFO - Database connection successful
+2026-10-01 10:37:25,355 - INFO - Database connection successful
+2026-10-01 10:37:29,070 - INFO - Database connection successful
+2026-10-01 10:37:29,825 - INFO - Database connection successful
+2026-10-01 14:55:36,334 - INFO - Database connection successful
+2026-10-01 14:55:37,222 - INFO - Database connection successful
+2026-10-01 14:55:37,573 - INFO - Database connection successful
+2026-10-01 14:55:38,080 - INFO - Database connection successful
+2026-10-01 14:55:41,140 - INFO - Database connection successful
+2026-10-01 14:55:41,823 - INFO - Database connection successful
+2026-10-01 14:55:42,806 - INFO - Database connection successful
+2026-10-01 14:55:43,338 - INFO - Database connection successful
+2026-10-01 14:55:46,941 - INFO - Database connection successful
+2026-10-01 14:55:47,578 - INFO - Database connection successful
+2026-10-01 14:55:50,983 - INFO - Database connection successful
+2026-10-01 14:55:51,713 - INFO - Database connection successful
+2026-10-01 14:55:52,401 - INFO - Database connection successful
+2026-10-01 14:55:57,471 - INFO - Database connection successful
+2026-10-01 14:55:58,171 - INFO - Database connection successful
+2026-10-02 15:44:37,978 - INFO - Fetching products
+2026-10-02 15:44:39,368 - INFO - package: mysql.connector.plugins
+2026-10-02 15:44:39,368 - INFO - package: mysql.connector.plugins
+2026-10-02 15:44:39,368 - INFO - plugin_name: caching_sha2_password
+2026-10-02 15:44:39,368 - INFO - plugin_name: caching_sha2_password
+2026-10-02 15:44:39,368 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 15:44:39,368 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 15:44:39,384 - INFO - Database connection successful
+2026-10-02 15:44:39,384 - INFO - Database connection successful
+2026-10-02 15:44:39,436 - INFO - Products fetched successfully
+2026-10-02 15:45:40,525 - INFO - Database connection successful
+2026-10-02 15:45:53,126 - INFO - Database connection successful
+2026-10-02 15:45:53,995 - INFO - Database connection successful
+2026-10-02 16:05:53,429 - INFO - Database connection successful
+2026-10-02 16:05:53,695 - INFO - Database connection successful
+2026-10-02 16:51:59,595 - INFO - Fetching products
+2026-10-02 16:52:00,846 - INFO - package: mysql.connector.plugins
+2026-10-02 16:52:00,846 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:52:00,846 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:52:00,846 - INFO - Database connection successful
+2026-10-02 16:52:00,846 - INFO - Database connection successful
+2026-10-02 16:52:00,864 - INFO - Products fetched successfully
+2026-10-02 16:52:57,520 - INFO - AI chat request: mhuje available products ki detail batao
+2026-10-02 16:52:59,038 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 16:52:59,080 - INFO - AI requested MCP tool: get_products | arguments={}
+2026-10-02 16:53:00,685 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:53:00,685 - INFO - Received session ID: 43017e93a3dc4a9781b59e799609c548
+2026-10-02 16:53:00,700 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 16:53:00,703 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 16:53:00,718 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:53:00,718 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:53:01,914 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:53:01,921 - ERROR - MCP tool failed: get_products
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 208, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 122, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 16:53:02,459 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-10-02 16:54:46,590 - INFO - Fetching products
+2026-10-02 16:54:47,177 - INFO - package: mysql.connector.plugins
+2026-10-02 16:54:47,177 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:54:47,177 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:54:47,182 - INFO - Database connection successful
+2026-10-02 16:54:47,189 - INFO - Database connection successful
+2026-10-02 16:54:47,192 - INFO - Products fetched successfully
+2026-10-02 16:55:19,750 - INFO - Fetching products
+2026-10-02 16:55:20,995 - INFO - Database connection successful
+2026-10-02 16:55:20,998 - INFO - Products fetched successfully
+2026-10-02 16:55:21,007 - INFO - Database connection successful
+2026-10-02 16:55:25,628 - INFO - AI chat request: Show me all available products
+2026-10-02 16:55:27,104 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 16:55:27,135 - INFO - AI requested MCP tool: get_products | arguments={}
+2026-10-02 16:55:28,938 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:55:28,938 - INFO - Received session ID: d7893543b6b6425a87b744697b2ed348
+2026-10-02 16:55:28,940 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 16:55:28,955 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 16:55:28,959 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:55:28,961 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:55:29,905 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:55:29,911 - ERROR - MCP tool failed: get_products
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 208, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 122, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 16:55:30,468 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-10-02 16:57:19,267 - INFO - Fetching products
+2026-10-02 16:57:19,267 - INFO - Fetching products
+2026-10-02 16:57:20,134 - INFO - package: mysql.connector.plugins
+2026-10-02 16:57:20,181 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:57:20,181 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:57:20,424 - INFO - Database connection successful
+2026-10-02 16:57:20,501 - INFO - Products fetched successfully
+2026-10-02 16:57:20,503 - INFO - Database connection successful
+2026-10-02 16:57:20,509 - INFO - Database connection successful
+2026-10-02 16:57:20,509 - INFO - Database connection successful
+2026-10-02 16:57:20,513 - INFO - Products fetched successfully
+2026-10-02 16:57:28,324 - INFO - Fetching products
+2026-10-02 16:57:28,324 - INFO - Fetching products
+2026-10-02 16:57:29,382 - INFO - package: mysql.connector.plugins
+2026-10-02 16:57:29,391 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:57:29,399 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:57:29,806 - INFO - Database connection successful
+2026-10-02 16:57:29,814 - INFO - Database connection successful
+2026-10-02 16:57:29,856 - INFO - Database connection successful
+2026-10-02 16:57:29,868 - INFO - Products fetched successfully
+2026-10-02 16:57:29,877 - INFO - Products fetched successfully
+2026-10-02 16:57:29,880 - INFO - Database connection successful
+2026-10-02 16:58:16,745 - INFO - Fetching products
+2026-10-02 16:58:18,083 - INFO - package: mysql.connector.plugins
+2026-10-02 16:58:18,084 - INFO - package: mysql.connector.plugins
+2026-10-02 16:58:18,084 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:58:18,084 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:58:18,084 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:58:18,084 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:58:18,084 - INFO - Database connection successful
+2026-10-02 16:58:18,084 - INFO - Database connection successful
+2026-10-02 16:58:18,084 - INFO - Products fetched successfully
+2026-10-02 16:58:32,583 - INFO - AI chat request: Show me all available products
+2026-10-02 16:58:33,783 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 16:58:33,815 - INFO - AI requested MCP tool: get_products | arguments={}
+2026-10-02 16:58:35,436 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:58:35,436 - INFO - Received session ID: bd8f417ccc7d4f17a6e4fa077067f678
+2026-10-02 16:58:35,443 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 16:58:35,450 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 16:58:35,450 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:58:35,467 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:58:36,305 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:58:36,308 - ERROR - MCP tool failed: get_products
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 195, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 122, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 16:58:36,971 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-10-02 16:59:29,197 - INFO - Fetching products
+2026-10-02 16:59:29,786 - INFO - package: mysql.connector.plugins
+2026-10-02 16:59:29,786 - INFO - plugin_name: caching_sha2_password
+2026-10-02 16:59:29,786 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 16:59:29,792 - INFO - Database connection successful
+2026-10-02 16:59:29,792 - INFO - Database connection successful
+2026-10-02 16:59:29,793 - INFO - Products fetched successfully
+2026-10-02 16:59:56,968 - INFO - AI chat request: Show me all available products
+2026-10-02 16:59:57,955 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 16:59:57,991 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 16:59:59,584 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:59:59,584 - INFO - Received session ID: 7880c103bb18483fb8625d7264234d35
+2026-10-02 16:59:59,584 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 16:59:59,608 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 16:59:59,614 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 16:59:59,618 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:00:00,424 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:00:00,430 - ERROR - MCP tool error
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 213, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 123, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:00:01,027 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-10-02 17:02:24,704 - INFO - Fetching products
+2026-10-02 17:02:25,927 - INFO - Database connection successful
+2026-10-02 17:02:25,932 - INFO - Products fetched successfully
+2026-10-02 17:02:25,939 - INFO - Database connection successful
+2026-10-02 17:02:32,096 - INFO - Fetching products
+2026-10-02 17:02:33,715 - INFO - Database connection successful
+2026-10-02 17:02:33,715 - INFO - Products fetched successfully
+2026-10-02 17:02:33,715 - INFO - Database connection successful
+2026-10-02 17:04:28,555 - INFO - AI chat request: Show me available products
+2026-10-02 17:04:30,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:04:30,162 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:04:30,480 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:04:30,480 - INFO - Received session ID: 2f6a2afc30f34385ab3b7e4c19c4ff2f
+2026-10-02 17:04:30,480 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:04:30,496 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:04:30,496 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:04:30,496 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:04:30,845 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:04:30,845 - ERROR - MCP tool error
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 213, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 123, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:04:31,360 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-10-02 17:05:33,180 - INFO - Fetching products
+2026-10-02 17:05:33,180 - INFO - Fetching products
+2026-10-02 17:05:34,144 - INFO - package: mysql.connector.plugins
+2026-10-02 17:05:34,144 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:05:34,144 - INFO - package: mysql.connector.plugins
+2026-10-02 17:05:34,144 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:05:34,144 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:05:34,144 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:05:34,144 - INFO - Database connection successful
+2026-10-02 17:05:34,144 - INFO - Database connection successful
+2026-10-02 17:05:34,144 - INFO - Products fetched successfully
+2026-10-02 17:05:34,144 - INFO - Database connection successful
+2026-10-02 17:05:34,160 - INFO - Database connection successful
+2026-10-02 17:05:34,161 - INFO - Products fetched successfully
+2026-10-02 17:07:59,590 - INFO - AI chat request: Show me available products
+2026-10-02 17:08:00,559 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:08:00,571 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:08:00,571 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:08:01,162 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:01,162 - INFO - Received session ID: b667eab377004a70a5cf87de64fbb509
+2026-10-02 17:08:01,162 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:08:01,177 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:08:01,177 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:01,177 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:01,430 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:01,430 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:08:02,041 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:08:02,055 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:08:02,055 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:08:02,312 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:02,312 - INFO - Received session ID: a185b204a1a94c38bf45a1818b265a6c
+2026-10-02 17:08:02,312 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:08:02,312 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:08:02,312 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:02,312 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:02,582 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:08:02,582 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:08:03,242 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:08:03,242 - INFO - AI response generated successfully
+2026-10-02 17:09:48,287 - INFO - Fetching products
+2026-10-02 17:09:48,746 - INFO - Database connection successful
+2026-10-02 17:09:48,747 - INFO - Products fetched successfully
+2026-10-02 17:09:48,752 - INFO - Database connection successful
+2026-10-02 17:09:51,915 - INFO - AI chat request: Show me available products
+2026-10-02 17:09:52,892 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:09:52,892 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:09:52,892 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:09:53,145 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:53,145 - INFO - Received session ID: ef5f11bb4d77430fb264532969e46559
+2026-10-02 17:09:53,145 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:09:53,145 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:09:53,145 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:53,145 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:53,405 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:53,411 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:09:53,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:09:53,883 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:09:53,883 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:09:54,184 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:54,184 - INFO - Received session ID: ae9add15af464afb93cb90a5b30ba604
+2026-10-02 17:09:54,184 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:09:54,184 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:09:54,195 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:54,197 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:54,456 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:09:54,456 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:09:55,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:09:55,205 - INFO - AI response generated successfully
+2026-10-02 17:11:11,354 - INFO - AI chat request: show me available products
+2026-10-02 17:11:12,388 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:11:12,421 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:11:12,421 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:11:13,016 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:13,016 - INFO - Received session ID: d0811bdd2a97453398993544f68f44fc
+2026-10-02 17:11:13,016 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:11:13,032 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:11:13,032 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:13,032 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:13,294 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:13,294 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:11:13,949 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:11:13,949 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:11:13,949 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:11:14,217 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:14,217 - INFO - Received session ID: 4e160caea8be4274b2963cdfd7fcc421
+2026-10-02 17:11:14,218 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:11:14,222 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:11:14,223 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:14,225 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:14,486 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:14,486 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:11:15,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:11:15,178 - INFO - AI response generated successfully
+2026-10-02 17:11:58,639 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:58,640 - INFO - Received session ID: 77c09f9cdd9d45b3978edb5a6a4e21a6
+2026-10-02 17:11:58,640 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:11:58,645 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:11:58,648 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:58,649 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:11:58,916 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:13:34,843 - INFO - Fetching products
+2026-10-02 17:13:35,351 - INFO - package: mysql.connector.plugins
+2026-10-02 17:13:35,351 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:13:35,351 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:13:35,351 - INFO - Database connection successful
+2026-10-02 17:13:35,351 - INFO - Database connection successful
+2026-10-02 17:13:35,351 - INFO - Products fetched successfully
+2026-10-02 17:13:47,006 - INFO - Fetching products
+2026-10-02 17:13:47,471 - INFO - Database connection successful
+2026-10-02 17:13:47,471 - INFO - Products fetched successfully
+2026-10-02 17:13:47,471 - INFO - Database connection successful
+2026-10-02 17:14:44,798 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:44,798 - INFO - Received session ID: c078ebe8607047228c9055d439d8d733
+2026-10-02 17:14:44,798 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:14:44,807 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:14:44,813 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:44,816 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:45,109 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:54,210 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:54,210 - INFO - Received session ID: 5843651cfaae447e88cd8619a5275b3b
+2026-10-02 17:14:54,210 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:14:54,210 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:14:54,223 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:54,225 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:14:54,509 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:46,276 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:46,276 - INFO - Received session ID: ba7a940152f54b4f845bdc9b343c1f83
+2026-10-02 17:18:46,276 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:18:46,276 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:18:46,293 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:46,294 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:46,559 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:56,476 - INFO - AI chat request: Show me available products
+2026-10-02 17:18:57,288 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:18:57,288 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:18:57,288 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:18:57,543 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:57,543 - INFO - Received session ID: 031cd22f7225475abe1da58ec2c796b9
+2026-10-02 17:18:57,543 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:18:57,543 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:18:57,543 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:57,555 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:57,812 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:57,812 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:18:58,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:18:58,375 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:18:58,375 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:18:58,664 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:58,664 - INFO - Received session ID: 3e183a2837aa45f6ba6d8baf5c33a314
+2026-10-02 17:18:58,664 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:18:58,664 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:18:58,664 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:58,664 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:58,932 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:58,932 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:18:59,447 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:18:59,447 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:18:59,447 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:18:59,734 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:59,734 - INFO - Received session ID: 6228cf0063b6495f84eebc7c0b422d20
+2026-10-02 17:18:59,734 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:18:59,734 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:18:59,734 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:18:59,734 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:19:00,055 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:19:00,055 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 173, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 98, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: Error calling tool 'get_products': 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-10-02 17:19:00,055 - INFO - AI response generated successfully
+2026-10-02 17:21:02,797 - INFO - Fetching products
+2026-10-02 17:21:03,247 - INFO - Database connection successful
+2026-10-02 17:21:03,263 - INFO - Database connection successful
+2026-10-02 17:21:03,264 - INFO - Products fetched successfully
+2026-10-02 17:22:25,505 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:22:25,505 - INFO - Received session ID: d77f93dc48c146aca96a21c8533099a6
+2026-10-02 17:22:25,505 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:22:25,521 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:22:25,525 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:22:25,527 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:22:25,809 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:22:25,814 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:24:08,404 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:24:08,404 - INFO - Received session ID: 032358df42534a6b91e4f3c7706f9a24
+2026-10-02 17:24:08,404 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:24:08,410 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:24:08,412 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:24:08,413 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:24:08,621 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:24:08,636 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:25:29,309 - INFO - Fetching products
+2026-10-02 17:25:29,788 - INFO - Database connection successful
+2026-10-02 17:25:29,788 - INFO - Database connection successful
+2026-10-02 17:25:29,789 - INFO - Products fetched successfully
+2026-10-02 17:25:31,793 - INFO - Fetching products
+2026-10-02 17:25:32,289 - INFO - package: mysql.connector.plugins
+2026-10-02 17:25:32,289 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:25:32,289 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:25:32,290 - INFO - Database connection successful
+2026-10-02 17:25:32,290 - INFO - Database connection successful
+2026-10-02 17:25:32,294 - INFO - Products fetched successfully
+2026-10-02 17:25:56,753 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:25:56,753 - INFO - Received session ID: 1578fdf9039d4a2c8d78acdd2659b7f6
+2026-10-02 17:25:56,753 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:25:56,753 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:25:56,765 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:25:56,767 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:25:56,989 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:25:56,996 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:26:58,728 - INFO - Fetching products
+2026-10-02 17:26:58,728 - INFO - Fetching products
+2026-10-02 17:26:59,471 - INFO - package: mysql.connector.plugins
+2026-10-02 17:26:59,471 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:26:59,471 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:26:59,623 - INFO - Database connection successful
+2026-10-02 17:26:59,660 - INFO - Database connection successful
+2026-10-02 17:26:59,660 - INFO - Database connection successful
+2026-10-02 17:26:59,660 - INFO - Products fetched successfully
+2026-10-02 17:26:59,671 - INFO - Database connection successful
+2026-10-02 17:26:59,672 - INFO - Products fetched successfully
+2026-10-02 17:27:05,234 - INFO - Fetching products
+2026-10-02 17:27:05,234 - INFO - Fetching products
+2026-10-02 17:27:06,056 - INFO - package: mysql.connector.plugins
+2026-10-02 17:27:06,056 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:27:06,056 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:27:06,152 - INFO - Database connection successful
+2026-10-02 17:27:06,153 - INFO - Database connection successful
+2026-10-02 17:27:06,154 - INFO - Products fetched successfully
+2026-10-02 17:27:06,161 - INFO - Database connection successful
+2026-10-02 17:27:06,161 - INFO - Database connection successful
+2026-10-02 17:27:06,162 - INFO - Products fetched successfully
+2026-10-02 17:27:11,060 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:27:11,060 - INFO - Received session ID: 92bc09834b634d83bf93beb6472978d0
+2026-10-02 17:27:11,062 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:27:11,062 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:27:11,068 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:27:11,070 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:27:11,293 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:27:11,302 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:27:56,018 - INFO - Fetching products
+2026-10-02 17:27:56,018 - INFO - Fetching products
+2026-10-02 17:27:56,940 - INFO - package: mysql.connector.plugins
+2026-10-02 17:27:56,971 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:27:56,971 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:27:56,974 - INFO - Database connection successful
+2026-10-02 17:27:56,974 - INFO - Database connection successful
+2026-10-02 17:27:56,974 - INFO - Database connection successful
+2026-10-02 17:27:56,974 - INFO - Products fetched successfully
+2026-10-02 17:27:56,990 - INFO - Database connection successful
+2026-10-02 17:27:56,991 - INFO - Products fetched successfully
+2026-10-02 17:28:09,795 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:28:09,795 - INFO - Received session ID: 41eea6dc5e5f4815b74379b412d2c233
+2026-10-02 17:28:09,795 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:28:09,814 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:28:09,816 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:28:09,818 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:28:10,077 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:28:10,084 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:22,308 - INFO - AI chat request: Show me available products
+2026-10-02 17:29:23,292 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,292 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:29:23,292 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:29:23,578 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,578 - INFO - Received session ID: e55da11e200641ad975a6dc3a75f7ffc
+2026-10-02 17:29:23,578 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:29:23,578 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:29:23,578 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,578 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,800 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,800 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:29:23,800 - INFO - MCP tool result: None
+2026-10-02 17:29:25,349 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:29:25,349 - INFO - AI response generated successfully
+2026-10-02 17:30:28,437 - INFO - AI chat request: What is the price of MacBook Pro?
+2026-10-02 17:30:29,017 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,017 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:30:29,017 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:30:29,272 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,272 - INFO - Received session ID: 79f17e4f141241baa0775638afba68a9
+2026-10-02 17:30:29,272 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:30:29,272 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:30:29,272 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,272 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,495 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,512 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:29,512 - INFO - MCP tool result: None
+2026-10-02 17:30:30,080 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,083 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:30:30,083 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:30:30,337 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,337 - INFO - Received session ID: 20959a3581754f39aae513e111d21205
+2026-10-02 17:30:30,337 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:30:30,353 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:30:30,353 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,353 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,575 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,579 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:30:30,579 - INFO - MCP tool result: None
+2026-10-02 17:30:31,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:30:31,293 - INFO - AI response generated successfully
+2026-10-02 17:32:33,301 - INFO - Fetching products
+2026-10-02 17:32:33,301 - INFO - Fetching products
+2026-10-02 17:32:34,297 - INFO - package: mysql.connector.plugins
+2026-10-02 17:32:34,312 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:32:34,312 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:32:34,330 - INFO - package: mysql.connector.plugins
+2026-10-02 17:32:34,331 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:32:34,331 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:32:34,331 - INFO - Database connection successful
+2026-10-02 17:32:34,331 - INFO - Database connection successful
+2026-10-02 17:32:34,331 - INFO - Database connection successful
+2026-10-02 17:32:34,331 - INFO - Products fetched successfully
+2026-10-02 17:32:34,331 - INFO - Products fetched successfully
+2026-10-02 17:32:34,331 - INFO - Database connection successful
+2026-10-02 17:32:46,255 - INFO - AI chat request: Show me available products
+2026-10-02 17:32:47,109 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:32:47,126 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:32:47,126 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:32:47,757 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:32:47,757 - INFO - Received session ID: de13ec9b4da34e2c95c00765fac22fa8
+2026-10-02 17:32:47,757 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:32:47,770 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:32:47,771 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:32:47,771 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:32:48,033 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:32:48,033 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":21},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:32:48,038 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:32:48,038 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 21}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:32:48,744 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:32:48,744 - INFO - AI response generated successfully
+2026-10-02 17:33:10,487 - INFO - AI chat request: What is the price of MacBook Pro?
+2026-10-02 17:33:11,899 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:33:11,899 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:33:11,899 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:33:12,156 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:33:12,156 - INFO - Received session ID: 47533a7ed03b455fb6b230716368ef2e
+2026-10-02 17:33:12,156 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:33:12,172 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:33:12,172 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:33:12,172 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:33:12,409 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:33:12,409 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":21},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:33:12,409 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:33:12,409 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 21}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:33:13,002 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:33:13,005 - INFO - AI response generated successfully
+2026-10-02 17:34:30,232 - INFO - AI chat request: What is in my cart?
+2026-10-02 17:34:31,400 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:31,402 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:34:31,402 - INFO - Calling MCP tool: get_cart | arguments={'user_id': None}
+2026-10-02 17:34:31,648 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:31,648 - INFO - Received session ID: 02598d9339fb4a098167b541e20f2d03
+2026-10-02 17:34:31,664 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:34:31,664 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:34:31,664 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:31,664 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:31,708 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:31,712 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 199, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 117, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: 1 validation error for call[get_cart]
+user_id
+  Unexpected keyword argument [type=unexpected_keyword_argument, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/unexpected_keyword_argument
+2026-10-02 17:34:32,100 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,100 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:34:32,103 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 17:34:32,368 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,368 - INFO - Received session ID: 6cda90daa26b47e39cc71dfcdd0eb949
+2026-10-02 17:34:32,368 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:34:32,369 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:34:32,369 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,369 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,602 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,604 - INFO - Raw MCP result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:34:32,606 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:32,607 - INFO - MCP tool result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:34:33,155 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:33,158 - INFO - AI response generated successfully
+2026-10-02 17:34:55,639 - INFO - AI chat request: Add 2 Wireless Mouse to my cart
+2026-10-02 17:34:56,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:56,346 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:34:56,346 - INFO - Calling MCP tool: get_products | arguments={'': {}}
+2026-10-02 17:34:56,598 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:56,598 - INFO - Received session ID: 8280de5c5be44f81abaf87c4f5183d0b
+2026-10-02 17:34:56,613 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:34:56,613 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:34:56,613 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:56,613 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:56,613 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:56,628 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 199, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 117, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: 1 validation error for call[get_products]
+
+  Unexpected keyword argument [type=unexpected_keyword_argument, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/unexpected_keyword_argument
+2026-10-02 17:34:57,240 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,241 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:34:57,242 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:34:57,534 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,534 - INFO - Received session ID: b922ffe94f78404a8f3e814d3b17be32
+2026-10-02 17:34:57,534 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:34:57,534 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:34:57,534 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,534 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,761 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,763 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":21},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:34:57,763 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:57,763 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 21}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:34:58,392 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,394 - INFO - AI requested MCP tool: add_to_cart
+2026-10-02 17:34:58,394 - INFO - Calling MCP tool: add_to_cart | arguments={'product_id': 11, 'quantity': 2}
+2026-10-02 17:34:58,678 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,678 - INFO - Received session ID: 4c4783fb2ad94532a9a1a959a75315ad
+2026-10-02 17:34:58,678 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:34:58,678 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:34:58,678 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,694 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,924 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,924 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='{"message":"Wireless Mouse added to cart","product_id":11,"quantity_added":2}', annotations=None, meta=None)], structured_content={'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 2}, meta=None, data={'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 2}, is_error=False)
+2026-10-02 17:34:58,924 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:34:58,924 - INFO - MCP tool result: {'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 2}
+2026-10-02 17:34:58,924 - INFO - AI response generated successfully
+2026-10-02 17:35:46,731 - INFO - AI chat request: What's in my cart now?
+2026-10-02 17:35:47,614 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:35:47,614 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:35:47,614 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 17:35:47,869 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:35:47,885 - INFO - Received session ID: d1df3d20d9344de8a99188068ee1dd84
+2026-10-02 17:35:47,885 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:35:47,887 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:35:47,887 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:35:47,887 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:35:48,099 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:35:48,099 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":15,"product_id":11,"name":"Wireless Mouse","price":"1499.00","quantity":2,"subtotal":"2998.00"}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:35:48,115 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:35:48,115 - INFO - MCP tool result: [{'id': 15, 'product_id': 11, 'name': 'Wireless Mouse', 'price': '1499.00', 'quantity': 2, 'subtotal': '2998.00'}]
+2026-10-02 17:35:48,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:35:48,760 - INFO - AI response generated successfully
+2026-10-02 17:36:34,229 - INFO - AI chat request: Checkout my cart
+2026-10-02 17:36:34,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:36:34,869 - INFO - AI requested MCP tool: checkout
+2026-10-02 17:36:34,869 - INFO - Calling MCP tool: checkout | arguments={'': {}}
+2026-10-02 17:36:35,106 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:35,106 - INFO - Received session ID: 471208a842e84a31a20f889ffc47ffd4
+2026-10-02 17:36:35,106 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:36:35,122 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:36:35,122 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:35,122 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:35,138 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:35,138 - ERROR - MCP tool failed
+Traceback (most recent call last):
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 199, in chat_with_shopping_assistant
+    tool_result = await execute_mcp_tool(
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\backend\app\ai\assistant.py", line 117, in execute_mcp_tool
+    result = await client.call_tool(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 312, in call_tool
+    return await self._parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 201, in _parse_call_tool_result
+    return await _parse_call_tool_result(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ss\Desktop\Shopping_Cart_mcp_server\.main\Lib\site-packages\fastmcp\client\mixins\tools.py", line 426, in _parse_call_tool_result
+    raise ToolError(msg)
+fastmcp.exceptions.ToolError: 1 validation error for call[checkout]
+
+  Unexpected keyword argument [type=unexpected_keyword_argument, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/unexpected_keyword_argument
+2026-10-02 17:36:35,953 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:36:35,954 - INFO - AI requested MCP tool: checkout
+2026-10-02 17:36:35,954 - INFO - Calling MCP tool: checkout | arguments={}
+2026-10-02 17:36:36,204 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,204 - INFO - Received session ID: 38f36489540f4e53bd713fead2a43145
+2026-10-02 17:36:36,204 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:36:36,217 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:36:36,219 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,220 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,452 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,454 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='{"message":"Order placed successfully","total":2998.0}', annotations=None, meta=None)], structured_content={'message': 'Order placed successfully', 'total': 2998.0}, meta=None, data={'message': 'Order placed successfully', 'total': 2998.0}, is_error=False)
+2026-10-02 17:36:36,458 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,459 - INFO - MCP tool result: {'message': 'Order placed successfully', 'total': 2998.0}
+2026-10-02 17:36:36,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:36:36,969 - INFO - AI response generated successfully
+2026-10-02 17:38:30,558 - INFO - Fetching products
+2026-10-02 17:38:31,145 - INFO - Fetching products
+2026-10-02 17:38:31,145 - INFO - Database connection successful
+2026-10-02 17:38:31,253 - INFO - Products fetched successfully
+2026-10-02 17:38:31,437 - INFO - Database connection successful
+2026-10-02 17:38:31,649 - INFO - Fetching products
+2026-10-02 17:38:31,652 - INFO - Database connection successful
+2026-10-02 17:38:31,702 - INFO - Fetching products
+2026-10-02 17:38:31,789 - INFO - Database connection successful
+2026-10-02 17:38:32,553 - INFO - Fetching products
+2026-10-02 17:38:32,586 - INFO - Database connection successful
+2026-10-02 17:38:32,668 - INFO - Products fetched successfully
+2026-10-02 17:38:32,753 - INFO - Database connection successful
+2026-10-02 17:38:32,768 - INFO - Database connection successful
+2026-10-02 17:38:32,992 - INFO - Database connection successful
+2026-10-02 17:38:33,002 - INFO - Products fetched successfully
+2026-10-02 17:38:33,031 - INFO - Products fetched successfully
+2026-10-02 17:38:33,042 - INFO - Database connection successful
+2026-10-02 17:38:33,043 - INFO - Database connection successful
+2026-10-02 17:38:33,044 - INFO - Products fetched successfully
+2026-10-02 17:41:49,944 - INFO - Fetching products
+2026-10-02 17:41:50,504 - INFO - Fetching products
+2026-10-02 17:41:50,507 - INFO - Database connection successful
+2026-10-02 17:41:50,807 - INFO - Database connection successful
+2026-10-02 17:41:50,940 - INFO - Fetching products
+2026-10-02 17:41:50,991 - INFO - Products fetched successfully
+2026-10-02 17:41:51,471 - INFO - Fetching products
+2026-10-02 17:41:51,495 - INFO - Database connection successful
+2026-10-02 17:41:51,495 - INFO - Database connection successful
+2026-10-02 17:41:51,590 - INFO - Database connection successful
+2026-10-02 17:41:51,706 - INFO - Products fetched successfully
+2026-10-02 17:41:51,789 - INFO - Database connection successful
+2026-10-02 17:41:51,939 - INFO - Products fetched successfully
+2026-10-02 17:41:51,954 - INFO - Database connection successful
+2026-10-02 17:41:51,955 - INFO - Database connection successful
+2026-10-02 17:41:51,956 - INFO - Products fetched successfully
+2026-10-02 17:41:56,531 - INFO - Fetching products
+2026-10-02 17:41:57,010 - INFO - Fetching products
+2026-10-02 17:41:57,011 - INFO - Database connection successful
+2026-10-02 17:41:57,134 - INFO - Products fetched successfully
+2026-10-02 17:41:57,489 - INFO - Fetching products
+2026-10-02 17:41:57,490 - INFO - Database connection successful
+2026-10-02 17:41:57,925 - INFO - Database connection successful
+2026-10-02 17:41:57,936 - INFO - Database connection successful
+2026-10-02 17:41:57,970 - INFO - Fetching products
+2026-10-02 17:41:57,971 - INFO - Products fetched successfully
+2026-10-02 17:41:57,976 - INFO - Database connection successful
+2026-10-02 17:41:58,222 - INFO - Database connection successful
+2026-10-02 17:41:58,485 - INFO - Fetching products
+2026-10-02 17:41:58,485 - INFO - Products fetched successfully
+2026-10-02 17:41:58,485 - INFO - Database connection successful
+2026-10-02 17:41:58,631 - INFO - Database connection successful
+2026-10-02 17:41:58,786 - INFO - Products fetched successfully
+2026-10-02 17:41:58,993 - INFO - Database connection successful
+2026-10-02 17:41:58,994 - INFO - Fetching products
+2026-10-02 17:41:58,994 - INFO - Fetching products
+2026-10-02 17:41:59,540 - INFO - Database connection successful
+2026-10-02 17:41:59,885 - INFO - Fetching products
+2026-10-02 17:42:00,039 - INFO - Database connection successful
+2026-10-02 17:42:00,082 - INFO - Database connection successful
+2026-10-02 17:42:00,087 - INFO - Database connection successful
+2026-10-02 17:42:00,133 - INFO - Products fetched successfully
+2026-10-02 17:42:00,194 - INFO - Database connection successful
+2026-10-02 17:42:00,444 - INFO - Products fetched successfully
+2026-10-02 17:42:00,491 - INFO - Products fetched successfully
+2026-10-02 17:42:00,492 - INFO - Database connection successful
+2026-10-02 17:42:00,499 - INFO - Database connection successful
+2026-10-02 17:42:00,500 - INFO - Products fetched successfully
+2026-10-02 17:42:46,933 - INFO - Fetching products
+2026-10-02 17:42:47,196 - INFO - Database connection successful
+2026-10-02 17:42:47,197 - INFO - Products fetched successfully
+2026-10-02 17:42:54,204 - INFO - Fetching products
+2026-10-02 17:42:54,769 - INFO - package: mysql.connector.plugins
+2026-10-02 17:42:54,769 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:42:54,769 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:42:54,887 - INFO - Database connection successful
+2026-10-02 17:42:54,887 - INFO - Database connection successful
+2026-10-02 17:42:54,887 - INFO - Products fetched successfully
+2026-10-02 17:42:54,887 - INFO - Database connection successful
+2026-10-02 17:43:12,948 - INFO - Fetching products
+2026-10-02 17:43:12,949 - INFO - Fetching products
+2026-10-02 17:43:13,554 - INFO - package: mysql.connector.plugins
+2026-10-02 17:43:13,554 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:43:13,684 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:43:13,955 - INFO - Database connection successful
+2026-10-02 17:43:13,955 - INFO - Database connection successful
+2026-10-02 17:43:13,955 - INFO - Products fetched successfully
+2026-10-02 17:43:13,958 - INFO - Products fetched successfully
+2026-10-02 17:43:13,962 - INFO - Database connection successful
+2026-10-02 17:43:13,962 - INFO - Database connection successful
+2026-10-02 17:43:27,744 - INFO - Fetching products
+2026-10-02 17:43:27,744 - INFO - Fetching products
+2026-10-02 17:43:28,760 - INFO - package: mysql.connector.plugins
+2026-10-02 17:43:28,760 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:43:28,760 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:43:28,827 - INFO - Database connection successful
+2026-10-02 17:43:28,828 - INFO - Database connection successful
+2026-10-02 17:43:28,839 - INFO - Database connection successful
+2026-10-02 17:43:28,839 - INFO - Database connection successful
+2026-10-02 17:43:28,840 - INFO - Products fetched successfully
+2026-10-02 17:43:28,846 - INFO - Products fetched successfully
+2026-10-02 17:44:46,499 - INFO - Fetching products
+2026-10-02 17:44:46,499 - INFO - Fetching products
+2026-10-02 17:44:47,283 - INFO - package: mysql.connector.plugins
+2026-10-02 17:44:47,310 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:44:47,310 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:44:47,498 - INFO - Database connection successful
+2026-10-02 17:44:47,499 - INFO - Database connection successful
+2026-10-02 17:44:47,505 - INFO - Database connection successful
+2026-10-02 17:44:47,505 - INFO - Database connection successful
+2026-10-02 17:44:47,505 - INFO - Products fetched successfully
+2026-10-02 17:44:47,511 - INFO - Products fetched successfully
+2026-10-02 17:45:17,338 - INFO - Fetching products
+2026-10-02 17:45:17,338 - INFO - Fetching products
+2026-10-02 17:45:18,299 - INFO - package: mysql.connector.plugins
+2026-10-02 17:45:18,301 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:45:18,301 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:45:18,301 - INFO - package: mysql.connector.plugins
+2026-10-02 17:45:18,301 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:45:18,301 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:45:18,302 - INFO - Database connection successful
+2026-10-02 17:45:18,302 - INFO - Database connection successful
+2026-10-02 17:45:18,303 - INFO - Products fetched successfully
+2026-10-02 17:45:18,303 - INFO - Database connection successful
+2026-10-02 17:45:18,303 - INFO - Database connection successful
+2026-10-02 17:45:18,303 - INFO - Products fetched successfully
+2026-10-02 17:45:56,572 - INFO - Fetching products
+2026-10-02 17:45:56,572 - INFO - Fetching products
+2026-10-02 17:45:56,572 - INFO - Fetching products
+2026-10-02 17:45:57,703 - INFO - package: mysql.connector.plugins
+2026-10-02 17:45:57,802 - INFO - plugin_name: caching_sha2_password
+2026-10-02 17:45:57,819 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-10-02 17:45:58,155 - INFO - Database connection successful
+2026-10-02 17:45:58,155 - INFO - Database connection successful
+2026-10-02 17:45:58,155 - INFO - Database connection successful
+2026-10-02 17:45:58,160 - INFO - Database connection successful
+2026-10-02 17:45:58,172 - INFO - Database connection successful
+2026-10-02 17:45:58,172 - INFO - Products fetched successfully
+2026-10-02 17:45:58,172 - INFO - Database connection successful
+2026-10-02 17:45:58,172 - INFO - Products fetched successfully
+2026-10-02 17:45:58,172 - INFO - Products fetched successfully
+2026-10-02 17:46:27,835 - INFO - AI chat request: Show me available products
+2026-10-02 17:46:28,778 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:28,796 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:46:28,796 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:46:29,355 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:29,355 - INFO - Received session ID: a6cf50ab1dea494f95ab5c34c9dd0162
+2026-10-02 17:46:29,355 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:46:29,371 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:46:29,371 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:29,371 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:29,599 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:29,599 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":19},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:46:29,604 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:29,604 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 19}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:46:30,192 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:30,196 - INFO - AI response generated successfully
+2026-10-02 17:46:37,609 - INFO - AI chat request: What's in my cart?
+2026-10-02 17:46:38,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,210 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:46:38,210 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 17:46:38,455 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,455 - INFO - Received session ID: d556b280f9b24f8f9ee2fbd7fb721d79
+2026-10-02 17:46:38,455 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:46:38,470 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:46:38,470 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,470 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,690 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,690 - INFO - Raw MCP result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:46:38,690 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:38,690 - INFO - MCP tool result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:46:39,211 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:39,211 - INFO - AI response generated successfully
+2026-10-02 17:46:53,407 - INFO - AI chat request: Add 1 Wireless Mouse to my cart
+2026-10-02 17:46:57,060 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,060 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:46:57,060 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:46:57,315 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,315 - INFO - Received session ID: a463c35447a342c9b28e9dde61bc76bd
+2026-10-02 17:46:57,315 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:46:57,321 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:46:57,321 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,321 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,538 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,538 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":19},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:46:57,538 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:57,538 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 19}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:46:58,106 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,106 - INFO - AI requested MCP tool: add_to_cart
+2026-10-02 17:46:58,106 - INFO - Calling MCP tool: add_to_cart | arguments={'product_id': 11, 'quantity': 1}
+2026-10-02 17:46:58,381 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,381 - INFO - Received session ID: 80f8a36fd4c24c0aa88be8b631263555
+2026-10-02 17:46:58,381 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:46:58,396 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:46:58,396 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,396 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,620 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,620 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='{"message":"Wireless Mouse added to cart","product_id":11,"quantity_added":1}', annotations=None, meta=None)], structured_content={'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 1}, meta=None, data={'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 1}, is_error=False)
+2026-10-02 17:46:58,633 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:46:58,633 - INFO - MCP tool result: {'message': 'Wireless Mouse added to cart', 'product_id': 11, 'quantity_added': 1}
+2026-10-02 17:46:59,186 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:46:59,202 - INFO - AI response generated successfully
+2026-10-02 17:47:30,825 - INFO - AI chat request: What's in my cart?
+2026-10-02 17:47:31,755 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:47:31,755 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:47:31,755 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 17:47:32,008 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,008 - INFO - Received session ID: 9cf2ec9802314693b80189d4218cdce6
+2026-10-02 17:47:32,024 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:47:32,031 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:47:32,031 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,031 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,254 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,254 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":16,"product_id":11,"name":"Wireless Mouse","price":"1499.00","quantity":1,"subtotal":"1499.00"}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:47:32,254 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,254 - INFO - MCP tool result: [{'id': 16, 'product_id': 11, 'name': 'Wireless Mouse', 'price': '1499.00', 'quantity': 1, 'subtotal': '1499.00'}]
+2026-10-02 17:47:32,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:47:32,868 - INFO - AI response generated successfully
+2026-10-02 17:47:53,760 - INFO - AI chat request: Checkout my cart
+2026-10-02 17:47:54,467 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:47:54,470 - INFO - AI requested MCP tool: checkout
+2026-10-02 17:47:54,470 - INFO - Calling MCP tool: checkout | arguments={}
+2026-10-02 17:47:54,741 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:54,741 - INFO - Received session ID: 9d13c20437e441b9be05d929d2f93eec
+2026-10-02 17:47:54,741 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:47:54,757 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:47:54,757 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:54,757 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:55,014 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:55,014 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='{"message":"Order placed successfully","total":1499.0}', annotations=None, meta=None)], structured_content={'message': 'Order placed successfully', 'total': 1499.0}, meta=None, data={'message': 'Order placed successfully', 'total': 1499.0}, is_error=False)
+2026-10-02 17:47:55,014 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:47:55,023 - INFO - MCP tool result: {'message': 'Order placed successfully', 'total': 1499.0}
+2026-10-02 17:47:55,613 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:47:55,613 - INFO - AI response generated successfully
+2026-10-02 17:48:08,260 - INFO - AI chat request: What's in my cart?
+2026-10-02 17:48:08,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:48:08,964 - INFO - AI requested MCP tool: get_cart
+2026-10-02 17:48:08,964 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 17:48:09,226 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:09,226 - INFO - Received session ID: 2d65759449034bc2aac32f811415210b
+2026-10-02 17:48:09,226 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:48:09,239 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:48:09,239 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:09,239 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:09,462 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:09,462 - INFO - Raw MCP result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:48:09,462 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:09,462 - INFO - MCP tool result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:48:10,102 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:48:10,106 - INFO - AI response generated successfully
+2026-10-02 17:48:20,863 - INFO - AI chat request: How many Wireless Mouse are in stock?
+2026-10-02 17:48:21,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:48:21,549 - INFO - AI requested MCP tool: get_products
+2026-10-02 17:48:21,552 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 17:48:21,802 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:21,802 - INFO - Received session ID: 4678c251369f4a0c975cd4398643283e
+2026-10-02 17:48:21,802 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 17:48:21,813 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 17:48:21,816 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:21,816 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:22,023 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:22,023 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":18},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 17:48:22,039 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 17:48:22,039 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 18}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 17:48:23,432 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 17:48:23,432 - INFO - AI response generated successfully
+2026-10-02 17:52:19,064 - INFO - Fetching products
+2026-10-02 17:52:19,536 - INFO - Database connection successful
+2026-10-02 17:52:19,536 - INFO - Database connection successful
+2026-10-02 17:52:19,541 - INFO - Products fetched successfully
+2026-10-02 19:28:32,124 - INFO - AI chat request: show available products
+2026-10-02 19:28:32,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:28:32,797 - INFO - AI requested MCP tool: get_products
+2026-10-02 19:28:32,797 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 19:28:33,116 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:33,116 - INFO - Received session ID: ad95caa7f8624c4c88fd829af00a9a94
+2026-10-02 19:28:33,118 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:28:33,124 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:28:33,126 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:33,128 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:33,468 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:33,470 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":18},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:28:33,470 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:33,470 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 18}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 19:28:34,200 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:28:34,200 - INFO - AI response generated successfully
+2026-10-02 19:28:52,898 - INFO - AI chat request: price of MacBook Pro
+2026-10-02 19:28:53,588 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:28:53,588 - INFO - AI requested MCP tool: get_products
+2026-10-02 19:28:53,588 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 19:28:53,867 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:53,867 - INFO - Received session ID: b571377431cf4174aa8d152ebe4fb243
+2026-10-02 19:28:53,868 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:28:53,874 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:28:53,876 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:53,878 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:54,102 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:54,102 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":18},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:28:54,102 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:28:54,102 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 18}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 19:28:54,750 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:28:54,755 - INFO - AI response generated successfully
+2026-10-02 19:29:49,341 - INFO - AI chat request: what is my cart
+2026-10-02 19:29:50,111 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,112 - INFO - AI requested MCP tool: get_cart
+2026-10-02 19:29:50,112 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 19:29:50,449 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,449 - INFO - Received session ID: 80fcba14bd934842b3e14ef0f5a7e308
+2026-10-02 19:29:50,449 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:29:50,449 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:29:50,449 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,465 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,810 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,810 - INFO - Raw MCP result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:29:50,815 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:29:50,815 - INFO - MCP tool result: CallToolResult(content=[], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:29:51,398 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:29:51,398 - INFO - AI response generated successfully
+2026-10-02 19:30:21,804 - INFO - AI chat request: add 1 macbook pro my cart
+2026-10-02 19:30:22,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:30:22,595 - INFO - AI requested MCP tool: get_products
+2026-10-02 19:30:22,595 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 19:30:22,861 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:22,861 - INFO - Received session ID: 8ee2e754e35c410da87baa90b8f5b34c
+2026-10-02 19:30:22,861 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:30:22,870 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:30:22,874 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:22,875 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:23,132 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:23,135 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":18},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:30:23,138 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:23,139 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 18}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 19:30:23,754 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:30:23,754 - INFO - AI requested MCP tool: add_to_cart
+2026-10-02 19:30:23,754 - INFO - Calling MCP tool: add_to_cart | arguments={'product_id': 10, 'quantity': 1}
+2026-10-02 19:30:24,040 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,040 - INFO - Received session ID: cee799329fc541c68105cb6672814284
+2026-10-02 19:30:24,040 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:30:24,044 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:30:24,046 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,048 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,318 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,318 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='{"message":"MacBook Pro added to cart","product_id":10,"quantity_added":1}', annotations=None, meta=None)], structured_content={'message': 'MacBook Pro added to cart', 'product_id': 10, 'quantity_added': 1}, meta=None, data={'message': 'MacBook Pro added to cart', 'product_id': 10, 'quantity_added': 1}, is_error=False)
+2026-10-02 19:30:24,318 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,318 - INFO - MCP tool result: {'message': 'MacBook Pro added to cart', 'product_id': 10, 'quantity_added': 1}
+2026-10-02 19:30:24,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:30:24,623 - INFO - AI response generated successfully
+2026-10-02 19:30:33,289 - INFO - AI chat request: what is my cart
+2026-10-02 19:30:33,929 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:30:33,929 - INFO - AI requested MCP tool: get_cart
+2026-10-02 19:30:33,929 - INFO - Calling MCP tool: get_cart | arguments={}
+2026-10-02 19:30:34,179 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:34,179 - INFO - Received session ID: dba01a7af442417baf00b644da4f54cb
+2026-10-02 19:30:34,179 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:30:34,184 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:30:34,184 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:34,184 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:34,435 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:34,437 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":17,"product_id":10,"name":"MacBook Pro","price":"129999.00","quantity":1,"subtotal":"129999.00"}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:30:34,439 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:30:34,442 - INFO - MCP tool result: [{'id': 17, 'product_id': 10, 'name': 'MacBook Pro', 'price': '129999.00', 'quantity': 1, 'subtotal': '129999.00'}]
+2026-10-02 19:30:35,412 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:30:35,419 - INFO - AI response generated successfully
+2026-10-02 19:31:55,148 - INFO - AI chat request: how many macbool pro are in stock
+2026-10-02 19:31:57,207 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,207 - INFO - AI requested MCP tool: get_products
+2026-10-02 19:31:57,207 - INFO - Calling MCP tool: get_products | arguments={}
+2026-10-02 19:31:57,547 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,548 - INFO - Received session ID: 0a2210c6ba554ebeb60b93667699feec
+2026-10-02 19:31:57,548 - INFO - Negotiated protocol version: 2025-11-25
+2026-10-02 19:31:57,552 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 202 Accepted"
+2026-10-02 19:31:57,555 - INFO - HTTP Request: GET http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,556 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,770 - INFO - HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,785 - INFO - Raw MCP result: CallToolResult(content=[TextContent(type='text', text='[{"id":10,"name":"MacBook Pro","category":"LAPTOP","price":"129999.00","stock":8},{"id":11,"name":"Wireless Mouse","category":"ACCESSORIES","price":"1499.00","stock":18},{"id":12,"name":"Mechanical Keyboard","category":"ACCESSORIES","price":"4999.00","stock":12}]', annotations=None, meta=None)], structured_content=None, meta=None, data=None, is_error=False)
+2026-10-02 19:31:57,785 - INFO - HTTP Request: DELETE http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+2026-10-02 19:31:57,785 - INFO - MCP tool result: [{'id': 10, 'name': 'MacBook Pro', 'category': 'LAPTOP', 'price': '129999.00', 'stock': 8}, {'id': 11, 'name': 'Wireless Mouse', 'category': 'ACCESSORIES', 'price': '1499.00', 'stock': 18}, {'id': 12, 'name': 'Mechanical Keyboard', 'category': 'ACCESSORIES', 'price': '4999.00', 'stock': 12}]
+2026-10-02 19:31:58,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-02 19:31:58,430 - INFO - AI response generated successfully

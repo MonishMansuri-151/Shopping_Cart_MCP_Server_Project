@@ -226,7 +226,39 @@
         </div>
 
     </section>
+    <section class="ai-section">
 
+    <div class="ai-header">
+        <div>
+            <h2>🛍️ Shopping Assistant</h2>
+            <p>Ask me about products, cart or checkout</p>
+        </div>
+    </div>
+
+    <div id="chat-box" class="chat-box">
+
+        <div class="ai-message">
+            Hi! 👋 I can help you with products, cart and checkout.
+        </div>
+
+    </div>
+
+    <div class="chat-input-area">
+
+        <input
+            type="text"
+            id="chat-input"
+            placeholder="Ask something... e.g. Show me available products"
+            onkeydown="handleChatKey(event)"
+        >
+
+        <button onclick="sendChat()">
+            Send
+        </button>
+
+    </div>
+
+</section>
 
     <!-- FOOTER -->
     <footer>
@@ -943,7 +975,107 @@ function scrollToCart() {
             behavior: "smooth"
         });
 }
+async function sendChat() {
 
+    const input = document.getElementById("chat-input");
+    const chatBox = document.getElementById("chat-box");
+
+    const message = input.value.trim();
+
+    if (!message) {
+        return;
+    }
+
+    // Show user message
+    const userMessage = document.createElement("div");
+
+    userMessage.className = "user-message";
+    userMessage.textContent = message;
+
+    chatBox.appendChild(userMessage);
+
+    input.value = "";
+
+    // Scroll down
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    // Loading message
+    const loadingMessage = document.createElement("div");
+
+    loadingMessage.className = "ai-message";
+    loadingMessage.textContent = "Thinking...";
+
+    chatBox.appendChild(loadingMessage);
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    try {
+
+        const response = await fetch(
+            "http://127.0.0.1:8000/chat",
+            {
+                method: "POST",
+
+                headers: {
+                    "Content-Type": "application/json"
+                },
+
+                body: JSON.stringify({
+                    message: message
+                })
+            }
+        );
+
+        const data = await response.json();
+
+        loadingMessage.remove();
+
+        const aiMessage = document.createElement("div");
+
+        aiMessage.className = "ai-message";
+
+        if (response.ok) {
+
+            aiMessage.textContent =
+                data.reply || "No response received.";
+
+        } else {
+
+            aiMessage.textContent =
+                data.detail || "Something went wrong.";
+
+        }
+
+        chatBox.appendChild(aiMessage);
+
+    } catch (error) {
+
+        loadingMessage.remove();
+
+        const errorMessage = document.createElement("div");
+
+        errorMessage.className = "ai-message";
+
+        errorMessage.textContent =
+            "Unable to connect to AI assistant.";
+
+        chatBox.appendChild(errorMessage);
+
+        console.error(error);
+    }
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+
+function handleChatKey(event) {
+
+    if (event.key === "Enter") {
+
+        sendChat();
+
+    }
+}
 </script>
 
 </body>

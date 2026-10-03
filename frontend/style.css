@@ -628,3 +628,78 @@ footer span {
         text-align: center;
     }
 }
+.ai-section {
+    margin-top: 40px;
+    background: #ffffff;
+    border: 1px solid #eee9f6;
+    border-radius: 24px;
+    padding: 25px;
+    box-shadow: 0 10px 35px rgba(71, 47, 125, 0.10);
+}
+
+.ai-header h2 {
+    margin: 0;
+    color: #472f7d;
+}
+
+.ai-header p {
+    margin-top: 6px;
+    color: #777;
+}
+
+.chat-box {
+    margin-top: 20px;
+    height: 300px;
+    overflow-y: auto;
+    background: #faf8ff;
+    border-radius: 16px;
+    padding: 18px;
+}
+
+.ai-message,
+.user-message {
+    max-width: 80%;
+    padding: 12px 16px;
+    margin-bottom: 12px;
+    border-radius: 14px;
+    line-height: 1.5;
+}
+
+.ai-message {
+    background: #eee9ff;
+    color: #333;
+    margin-right: auto;
+}
+
+.user-message {
+    background: #472f7d;
+    color: white;
+    margin-left: auto;
+}
+
+.chat-input-area {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.chat-input-area input {
+    flex: 1;
+    padding: 14px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    outline: none;
+}
+
+.chat-input-area button {
+    padding: 14px 24px;
+    border: none;
+    border-radius: 12px;
+    background: #472f7d;
+    color: white;
+    cursor: pointer;
+}
+
+.chat-input-area button:hover {
+    opacity: 0.9;
+}
